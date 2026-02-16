@@ -6,7 +6,11 @@ A high-performance backend system for matching passengers into shared airport ri
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [System Architecture](#system-architecture)
+
+- SetUp ------>
 - [Quick Start](#quick-start)
+
+- 
 - [API Documentation](#api-documentation)
 - [Algorithm Details](#algorithm-details)
 - [Database Design](#database-design)
