@@ -125,7 +125,7 @@ A high-performance backend system for matching passengers into shared airport ri
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone < https://github.com/Ramkrishna06/Smart-Airport-Ride-Pooling-Backend-System.git  >
 cd ride-pooling-backend
 ```
 
